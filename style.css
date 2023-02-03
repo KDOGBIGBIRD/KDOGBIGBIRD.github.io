@@ -3,4 +3,8 @@ body{
 }
 h4{
     color: darkgoldenrod;
+    font-family: cursive ;
+}
+p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
