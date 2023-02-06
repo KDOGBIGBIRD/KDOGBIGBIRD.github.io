@@ -1,11 +1,53 @@
 body{
-    background-color: bisque;
-}
-h4{
-    color: darkgoldenrod;
-    font-family: cursive ;
-}
-p{
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    color: rgb(255, 255, 255);
-}
+    background-image: url("gucci-art-society.jpg");
+  
+  }
+  
+  
+  
+  
+  
+  h3 {
+    color:darkorange;
+    border-color:darkgreen;
+    border-style: solid;
+    font-family: fantasy;
+  }
+  
+  h1 {
+    color: red;
+    border-color: lawngreen;
+    border-style: dashed;
+    text-align: center;
+    font-family: monospace;
+  }
+  
+  img {
+    border-color: greenyellow;
+    border-style: double;
+    float:right;
+    width:250px;
+    height: 250px;
+  
+  }
+  
+  h2 {
+    color: blueviolet;
+    border-color: darkgrey;
+    border-style: ridge;
+    text-align: right;
+  }
+  
+  h4 {
+    color: orangered;
+    border-color: blue;
+    border-style: groove;
+    font-family: sans-serif;
+    text-align: justify;
+  }
+  p {
+    color:red;
+    border-color: darksalmon;
+    border-style: double;
+    font-family: cursive;
+  }
